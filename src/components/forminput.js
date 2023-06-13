@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Row, Form, Button, Col } from "react-bootstrap";
+import { Row, Form, Button, Col } from "react-bootstrap";   // eslint-disable-line
 
 import { question } from "./data";
 const FormInput = ({ onAdd, notify }) => {
